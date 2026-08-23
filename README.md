@@ -1,17 +1,38 @@
-<h1 align="center">Hi, I'm Shirokuma 👋</h1>
-<p align="center">EV Developer | IoT | Rust & Embedded systems</p>
+# Hi, I'm Chanon 👋
 
-<div align="center">
-  <a href="https://bluestone.co.th">Website</a> • 
-  <a href="mailto:chanon@bluestone.co.th">Email</a>
-</div>
+Full Stack Developer & DevOps ที่ชอบสร้างระบบตั้งแต่ต้นจนจบ — ตั้งแต่ออกแบบ architecture ไปจนถึง deploy ขึ้น production จริง
+
+สนุกกับการแก้ปัญหาระบบ distributed, ออกแบบ infrastructure ให้ cost-efficient, และหาวิธีคิดที่ดีกว่าเดิมอยู่เสมอ
 
 ---
 
-### 🔧 Skills
-- ⚡ Rust / Go / JS
-- 🔌 Embedded: ESP32 / STM32
-- 🌐 Web APIs / OCPP / Node.js
+## 🛠 What I work with
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=shirokumakung&show_icons=true" />
+**Backend**  
+Go (Fiber) · Node.js · REST API · WebSocket · OCPP 1.6J · MQTT
+
+**Frontend**  
+React · Next.js · Vite · TypeScript · Tailwind CSS
+
+**Mobile**  
+Flutter · GetX · Firebase FCM · BLE · Deploy iOS & Android
+
+**Database**  
+PostgreSQL · Redis · MongoDB
+
+**Infrastructure & DevOps**  
+AWS · k3s (Kubernetes) · Docker · Cloudflare · Tailscale · WireGuard · GitHub Actions
+
+---
+
+## ⚡ What I enjoy building
+
+- ระบบ real-time ที่ scale ได้จริง — WebSocket, MQTT, pub/sub
+- Infrastructure ที่ cost-optimized และดูแลง่าย
+- Full stack ตั้งแต่ mobile app ถึง backend ถึง cloud
+- ระบบ IoT ที่ต้องจัดการ device จำนวนมากพร้อมกัน
+- Database schema ที่ออกแบบมาดี ไม่ต้องแก้บ่อย
+
+---
+
+📧 mr.chanon.k@gmail.com
