@@ -36,3 +36,4 @@ AWS · k3s (Kubernetes) · Docker · Cloudflare · Tailscale · WireGuard · Git
 ---
 
 📧 mr.chanon.k@gmail.com
+<img width="938" height="227" alt="image" src="https://github.com/user-attachments/assets/cdf979c6-ae67-438b-b214-06e57f236e52" />
